@@ -8,20 +8,20 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 
 ## Research Interests
 
-- Ubiquitous Computing
-- People Flow Estimation
+- **Ubiquitous Computing**
+- **People Flow Estimation**
 - Traffic Visualization
 - 3D Modeling
 
 ## Education History
 
-| 2017.4- | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
-| 2014.4-2017.3 | [Sakuradai J.H.S.](https://www.nagoya-c.ed.jp/school/sakuradai-h/) |
+| 2017.4 - | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
+| 2014.4 - 2017.3 | [Sakuradai J.H.S.](https://www.nagoya-c.ed.jp/school/sakuradai-h/) |
 
 ## Internship / Carrier History
 
-| 2018.12 | Department of Development, [TARVO, Inc.](https://tarvo.co.jp/) |
-| 2018.5 | [Media Studio](https://media.itc.nagoya-u.ac.jp/studio/), [Information Technology Center](http://www.icts.nagoya-u.ac.jp/ja/center/), Nagoya University |
+| 2018.12 - | Department of Development, [TARVO, Inc.](https://tarvo.co.jp/) |
+| 2018.5 - | [Media Studio](https://media.itc.nagoya-u.ac.jp/studio/), [Information Technology Center](http://www.icts.nagoya-u.ac.jp/ja/center/), Nagoya University |
 
 ## Qualifications
 
@@ -43,7 +43,7 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 - Backend Development
   - Apache / Nginx
   - MySQL
-- Application Development
+- Client Application Development
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
 
