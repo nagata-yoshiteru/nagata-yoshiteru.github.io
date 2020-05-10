@@ -3,16 +3,20 @@ logo: "/assets/img/logo.png?raw=true"
 description: 永田 吉輝
 affiliation: >
   Bachelor student in Dept. of Electrical Eng., Electronics and Information Eng., School of Eng., Nagoya University.
-  <br>
-  名古屋大学工学部電気電子情報工学科 学部生
   <br><br>
   Kawaguchi Lab., Dept. of Information and Communication Eng., Grad. School of Eng., Nagoya University.
-  <br>
-  名古屋大学工学研究科情報・通信工学専攻 河口研究室
 links: >
-  <a href="http://www.ucl.nuee.nagoya-u.ac.jp/" target="_blank">UCLab (Kawaguchi Lab.)</a><br>
+  <a href="http://www.ucl.nuee.nagoya-u.ac.jp/en/" target="_blank">UCLab (Kawaguchi Lab.)</a><br>
   <a href="https://media.itc.nagoya-u.ac.jp/studio/" target="_blank">Media Studio</a><br>
   <a href="https://tarvo.co.jp/" target="_blank">TARVO, Inc.</a><br>
+affiliation-ja: >
+  名古屋大学工学部電気電子情報工学科
+  <br><br>
+  名古屋大学工学研究科情報・通信工学専攻 河口研究室
+links-ja: >
+  <a href="http://www.ucl.nuee.nagoya-u.ac.jp/" target="_blank">UCLab (河口研究室)</a><br>
+  <a href="https://media.itc.nagoya-u.ac.jp/studio/" target="_blank">情報メディアスタジオ</a><br>
+  <a href="https://tarvo.co.jp/" target="_blank">株式会社TARVO</a><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-166001731-1
 show_downloads: false

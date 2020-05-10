@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-ja
 ---
 
 # 自己紹介
