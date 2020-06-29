@@ -57,7 +57,8 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:
   Privacy Preserving Person-Flow Estimation using Multiple 3D People Counter.
-  In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.
+  In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.  
+  **[Excellent Presentation Award](http://dicomo.org/commendation/)**
 
 # Projects
 

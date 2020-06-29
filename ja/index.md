@@ -57,7 +57,8 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 
 - **永田 吉輝**，廣井 慧，米澤 拓郎，河口 信夫：
   複数の3D通過センサによるプライバシーを考慮した人流推定手法，
-  マルチメディア，分散，協調とモバイル (DICOMO 2020) シンポジウム，2020年6月
+  マルチメディア，分散，協調とモバイル (DICOMO 2020) シンポジウム，2020年6月  
+  **[優秀プレゼンテーション賞](http://dicomo.org/commendation/)**
 
 # プロジェクト
 
