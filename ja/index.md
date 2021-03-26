@@ -15,7 +15,8 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 
 ## 学歴
 
-| 2017.4 - | [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/) |
+| 2021.4 - | [名古屋大学大学院工学研究科](https://www.engg.nagoya-u.ac.jp/) |
+| 2017.4 - 2021.3 | [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/) |
 | 2014.4 - 2017.3 | [名古屋市立桜台高等学校](https://www.nagoya-c.ed.jp/school/sakuradai-h/) 普通科 |
 
 ## インターンシップ / 職歴
@@ -61,8 +62,14 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 - **永田 吉輝**，廣井 慧，米澤 拓郎，河口 信夫：  
   複数の3D通過センサによるプライバシーを考慮した人流推定手法  
   マルチメディア，分散，協調とモバイル (DICOMO 2020) シンポジウム，2020年6月  
-  **[優秀プレゼンテーション賞](http://dicomo.org/commendation/)**
+  **[優秀プレゼンテーション賞](https://dicomo.org/2020/commendation/)**
 
 # プロジェクト
 
 TBA
+
+# 受賞歴
+
+- 学業成績優秀賞, [電子情報通信学会東海支部](https://www.ieice.org/tokai/), 2021年3月
+- 学部長表彰, [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/), 2021年3月
+- [優秀プレゼンテーション賞](https://dicomo.org/2020/commendation/), DICOMO 2020 シンポジウム, 2020年6月

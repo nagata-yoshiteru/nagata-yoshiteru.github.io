@@ -15,7 +15,8 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 
 ## Education History
 
-| 2017.4 - | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
+| 2021.4 - | [Graduate School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
+| 2017.4 - 2021.3 | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
 | 2014.4 - 2017.3 | [Sakuradai J.H.S.](https://www.nagoya-c.ed.jp/school/sakuradai-h/) |
 
 ## Internship / Carrier History
@@ -61,8 +62,14 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
   Privacy Preserving Person-Flow Estimation using Multiple 3D People Counter.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.  
-  **[Excellent Presentation Award](http://dicomo.org/commendation/)**
+  **[Excellent Presentation Award](https://dicomo.org/2020/commendation/)**
 
 # Projects
 
 TBA
+
+# Awards
+
+- Academic Achievement Award, [IEICE Tokai branch](https://www.ieice.org/tokai/), 2021.3.
+- Dean's Commendation, [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2021.3.
+- [Excellent Presentation Award](https://dicomo.org/2020/commendation/), DICOMO 2020 Symposium, 2020.6.
