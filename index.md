@@ -4,7 +4,7 @@ layout: default
 
 # Biography
 
-Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineering, Electronics and Information Engineering, School of Engineering, Nagoya University.
+Nagata Yoshiteru is a Master student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
 
 ## Research Interests
 
