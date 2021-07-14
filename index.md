@@ -4,24 +4,26 @@ layout: default
 
 # Biography
 
-Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineering, Electronics and Information Engineering, School of Engineering, Nagoya University.
+Nagata Yoshiteru is a Master student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
 
 ## Research Interests
 
 - **Ubiquitous Computing**
 - **People Flow Estimation**
+- **Latent Demand Estimation**
 - Traffic Visualization
 - 3D Modeling
 
 ## Education History
 
-| 2017.4 - | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
-| 2014.4 - 2017.3 | [Sakuradai J.H.S.](https://www.nagoya-c.ed.jp/school/sakuradai-h/) |
+| 2021.4 - | [Graduate School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
+| 2017.4 - 2021.3 | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
+| 2014.4 - 2017.3 | [Sakuradai High School](https://www.nagoya-c.ed.jp/school/sakuradai-h/) |
 
 ## Internship / Carrier History
 
 | 2018.12 - | Department of Development, [TARVO, Inc.](https://tarvo.co.jp/) |
-| 2018.5 - | [Media Studio](https://media.itc.nagoya-u.ac.jp/studio/), [Information Technology Center](http://www.icts.nagoya-u.ac.jp/ja/center/), Nagoya University |
+| 2018.5 - 2021.7 | [Media Studio](https://media.itc.nagoya-u.ac.jp/studio/), [Information Technology Center](http://www.icts.nagoya-u.ac.jp/ja/center/), Nagoya University |
 
 ## Qualifications
 
@@ -43,6 +45,7 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 - Backend Development
   - Apache / Nginx
   - MySQL
+  - Go
 - Client Application Development
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
@@ -53,11 +56,17 @@ Nagata Yoshiteru is a Bachelor student in the Department of Electrical Engineeri
 
 # Publications
 
+## 2021
+
+- **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Estimation of Potential Social Demands Based on IoT and a FlexibleExchange Infrastructure Between Demands and Service Supply.  
+  In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2021) Symposium, 2021.6.  
+
 ## 2020
 
 - **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi：  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters.  
-  In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12.  
+  [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/book/10.1007/978-3-030-51005-3)  
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
   Privacy Preserving Person-Flow Estimation using Multiple 3D People Counter.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.  
