@@ -70,8 +70,14 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
   Privacy Preserving Person-Flow Estimation using Multiple 3D People Counter.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.  
-  **[Excellent Presentation Award](http://dicomo.org/commendation/)**
+  **[Excellent Presentation Award](https://dicomo.org/2020/commendation/)**
 
 # Projects
 
 TBA
+
+# Awards
+
+- Academic Achievement Award, [IEICE Tokai branch](https://www.ieice.org/tokai/), 2021.3.
+- Dean's Commendation, [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2021.3.
+- [Excellent Presentation Award](https://dicomo.org/2020/commendation/), DICOMO 2020 Symposium, 2020.6.
