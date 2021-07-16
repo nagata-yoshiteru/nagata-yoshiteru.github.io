@@ -38,7 +38,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 - ウェブ開発
   - **HTML / CSS / Javascript**
-  - Node.js (**React**)
+  - **React**
   - PHP
   - Ruby
   - Django
