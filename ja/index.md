@@ -22,7 +22,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## インターンシップ / 職歴
 
-| 2021.8 | 技術職ハッカソンインターンシップ, [LINE株式会社](https://linecorp.com/ja/) |
+| 2021.8 | [LINE株式会社](https://linecorp.com/ja/) 技術職ハッカソンインターンシップ |
 | 2018.12 - | [株式会社TARVO](https://tarvo.co.jp/) 開発部 |
 | 2018.5 - 2021.7 | 名古屋大学[情報基盤センター](http://www.icts.nagoya-u.ac.jp/ja/center/) [情報メディアスタジオ](https://media.itc.nagoya-u.ac.jp/studio/) |
 
