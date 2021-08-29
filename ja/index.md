@@ -28,6 +28,8 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## 資格
 
+| 2021.4 | 無線従事者免許 (第一級陸上特殊無線技士, CBUJ00059) |
+| 2021.4 | 無線従事者免許 (第三級海上特殊無線技士, CBUW00027) |
 | 2019.10 | freeCodeCamp [Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc8c41b85e-8207-41e4-a738-50207bfaa71c/responsive-web-design) |
 | 2019.10 | freeCodeCamp [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/fcc8c41b85e-8207-41e4-a738-50207bfaa71c/javascript-algorithms-and-data-structures) |
 | 2018.9 | [TOEIC](https://www.ets.org/toeic) Listening & Reading Test スコア 910 取得 |

@@ -28,6 +28,8 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## Qualifications
 
+| 2021.4 | Radio Operator License of JAPAN (On-The-Ground Ⅰ-Category Special Radio Operator, CBUJ00059) |
+| 2021.4 | Radio Operator License of JAPAN (Maritime Ⅲ-Category Special Radio Operator, CBUW00027) |
 | 2019.10 | freeCodeCamp [Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc8c41b85e-8207-41e4-a738-50207bfaa71c/responsive-web-design) |
 | 2019.10 | freeCodeCamp [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/fcc8c41b85e-8207-41e4-a738-50207bfaa71c/javascript-algorithms-and-data-structures) |
 | 2018.9 | got a score of 910 on the [TOEIC](https://www.ets.org/toeic) Listening & Reading Test |
