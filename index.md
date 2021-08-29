@@ -61,6 +61,9 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimation of Potential Social Demands Based on IoT and a FlexibleExchange Infrastructure Between Demands and Service Supply.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2021) Symposium, 2021.6.  
+- F. Potorti et al.:
+  Off-line Evaluation of Indoor Positioning Systems in Different Scenarios: The Experiences from IPIN 2020 Competition.
+  In IEEE Sensors Journal, [doi: 10.1109/JSEN.2021.3083149](https://doi.org/10.1109/JSEN.2021.3083149).
 
 ## 2020
 
@@ -80,4 +83,6 @@ TBA
 
 - Academic Achievement Award, [IEICE Tokai branch](https://www.ieice.org/tokai/), 2021.3.
 - Dean's Commendation, [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2021.3.
+- Winner of IPIN2020 competition Track 5: xDR in manufacturing (PDR sub-track), [IPIN 2020 Indoor Localization Competition](http://evaal.aaloa.org/2020/results), 2020.12.
+- Winner of IPIN2020 competition Track 5: xDR in manufacturing (VDR sub-track), [IPIN 2020 Indoor Localization Competition](http://evaal.aaloa.org/2020/results), 2020.12.
 - [Excellent Presentation Award](https://dicomo.org/2020/commendation/), DICOMO 2020 Symposium, 2020.6.
