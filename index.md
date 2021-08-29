@@ -22,6 +22,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## Internship / Carrier History
 
+| 2021.8 | Engineering Hackathon Internship, [LINE Corporation](https://linecorp.com/en/) |
 | 2018.12 - | Department of Development, [TARVO, Inc.](https://tarvo.co.jp/) |
 | 2018.5 - 2021.7 | [Media Studio](https://media.itc.nagoya-u.ac.jp/studio/), [Information Technology Center](http://www.icts.nagoya-u.ac.jp/ja/center/), Nagoya University |
 
