@@ -16,8 +16,8 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## 学歴
 
-| 2021.4 - | [名古屋大学大学院工学研究科](https://www.engg.nagoya-u.ac.jp/) |
-| 2017.4 - 2021.3 | [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/) |
+| 2021.4 - | [名古屋大学大学院工学研究科](https://www.engg.nagoya-u.ac.jp/) [情報・通信工学専攻](http://www.nuee.nagoya-u.ac.jp/) |
+| 2017.4 - 2021.3 | [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/) [電気電子情報工学科](http://www.nuee.nagoya-u.ac.jp/) |
 | 2014.4 - 2017.3 | [名古屋市立桜台高等学校](https://www.nagoya-c.ed.jp/school/sakuradai-h/) 普通科 |
 
 ## インターンシップ / 職歴
