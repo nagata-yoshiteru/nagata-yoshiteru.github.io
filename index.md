@@ -63,6 +63,9 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 ## 2021
 
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Estimating and Leveraging Latent Social Demand Based on IoT sensors: An Empirical Study in a Large Public Park.  
+  In 13th International Conference on Mobile Computing and Ubiquitous Network (ICMU), 2021.11.  
+- **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimation of Potential Social Demands Based on IoT and a FlexibleExchange Infrastructure Between Demands and Service Supply.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2021) Symposium, 2021.6.  
 - F. Potorti et al.:
