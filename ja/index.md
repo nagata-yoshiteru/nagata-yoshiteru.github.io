@@ -54,11 +54,24 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
 
+### ハードウェア開発
+
+- Arduino 系
+  - ATmega32u4 (Arduino Leonardo, Pro Micro, etc.)
+  - ESP32 (M5 Stack, etc.)
+- Raspberry Pi
+
 ## 趣味
 
 - ピアノ
 
 # 出版物
+
+## 2022
+
+- 挺屋 友幹，**永田 吉輝**，東浦 圭亮，下里 浩昇，山口 公平，村井 大地，深谷 愓也，坂倉 波輝，戸出 悠太，浦野 健太，米澤 拓郎，河口 信夫:  
+  深層学習を用いたIMU付きペンによる手書き文字認識．  
+  社会システムと情報技術研究ウィーク (WSSIT2022)，2022年3月  
 
 ## 2021
 
@@ -88,8 +101,10 @@ TBA
 
 # 受賞歴
 
+- 令和3年度 修士論文中間発表優秀賞, [名古屋大学大学院工学研究科](https://www.engg.nagoya-u.ac.jp/), 2022年3月
 - 学業成績優秀賞, [電子情報通信学会東海支部](https://www.ieice.org/tokai/), 2021年3月
 - 学部長表彰, [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/), 2021年3月
+- [2019年度 大実験成績優秀者表彰](https://www.nuee.nagoya-u.ac.jp/kyoiku/gakubu/experiment/h2019.php), [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/), 2020年3月
 - Winner of IPIN2020 competition Track 5: xDR in manufacturing (PDR sub-track), [IPIN 2020 Indoor Localization Competition](http://evaal.aaloa.org/2020/results), 2020.12.
 - Winner of IPIN2020 competition Track 5: xDR in manufacturing (VDR sub-track), [IPIN 2020 Indoor Localization Competition](http://evaal.aaloa.org/2020/results), 2020.12.
 - [優秀プレゼンテーション賞](https://dicomo.org/2020/commendation/), DICOMO 2020 シンポジウム, 2020年6月

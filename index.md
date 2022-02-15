@@ -54,11 +54,24 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
 
+### Hardware Development
+
+- Arduino
+  - ATmega32u4 (Arduino Leonardo, Pro Micro, etc.)
+  - ESP32 (M5 Stack, etc.)
+- Raspberry Pi
+
 ## Hobby
 
 - Piano
 
 # Publications
+
+## 2022
+
+- Tomoki Choya, **Yoshiteru Nagata**, Keisuke Higashiura, Hironori Shimosato,Kohei Yamaguchi, Daichi Murai, Nobuya Fukatani, Namiki Sakakura,Yuta Toide, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Deep Learning for Handwriting RecognitionUsing IMU-Equipped Pen.  
+  Workshop of Social System and Information Technology (WSSIT2022), 2022.3.  
 
 ## 2021
 
@@ -88,8 +101,10 @@ TBA
 
 # Awards
 
+- AY2021 Excellence Award for Intermediate Presentation of Master Thesis, [Graduate School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2022.3.
 - Academic Achievement Award, [IEICE Tokai branch](https://www.ieice.org/tokai/), 2021.3.
 - Dean's Commendation, [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2021.3.
+- [AY2019 Awards for Outstanding Performance in Big Student Experiments](https://www.nuee.nagoya-u.ac.jp/kyoiku/gakubu/experiment/h2019.php), [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2020.3.
 - Winner of IPIN2020 competition Track 5: xDR in manufacturing (PDR sub-track), [IPIN 2020 Indoor Localization Competition](http://evaal.aaloa.org/2020/results), 2020.12.
 - Winner of IPIN2020 competition Track 5: xDR in manufacturing (VDR sub-track), [IPIN 2020 Indoor Localization Competition](http://evaal.aaloa.org/2020/results), 2020.12.
 - [Excellent Presentation Award](https://dicomo.org/2020/commendation/), DICOMO 2020 Symposium, 2020.6.
