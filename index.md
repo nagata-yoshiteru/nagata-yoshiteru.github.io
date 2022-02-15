@@ -102,6 +102,8 @@ TBA
 # Awards
 
 - AY2021 Excellence Award for Intermediate Presentation of Master Thesis, [Graduate School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2022.3.
+- [Award for Excellence](https://docs.google.com/document/d/17_YJIdbMoona7iqoDcaYkHrp0yTkDiqx/edit?usp=sharing&ouid=104858820495311930572&rtpof=true&sd=true), [The 2nd Joint Research Presentation of Tokai Ubiquitous Computing Laboratory](https://kajilab.net/tokaiubi2021/), 2021.11.
+- [3rd place of STABILO’s Handwriting Recognition Challenge](https://stabilodigital.com/submissions-2021/), [The ACM international joint conference on pervasive and ubiquitous computing (UbiComp) 2021](https://www.ubicomp.org/ubicomp2021/cfp/student-challenges-2/), 2021.9.
 - Academic Achievement Award, [IEICE Tokai branch](https://www.ieice.org/tokai/), 2021.3.
 - Dean's Commendation, [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2021.3.
 - [AY2019 Awards for Outstanding Performance in Big Student Experiments](https://www.nuee.nagoya-u.ac.jp/kyoiku/gakubu/experiment/h2019.php), [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/), 2020.3.

@@ -102,6 +102,8 @@ TBA
 # 受賞歴
 
 - 令和3年度 修士論文中間発表優秀賞, [名古屋大学大学院工学研究科](https://www.engg.nagoya-u.ac.jp/), 2022年3月
+- [最優秀賞](https://docs.google.com/document/d/17_YJIdbMoona7iqoDcaYkHrp0yTkDiqx/edit?usp=sharing&ouid=104858820495311930572&rtpof=true&sd=true), [第2回東海ユビキタスコンピューティング研究室合同研究発表会](https://kajilab.net/tokaiubi2021/), 2021年11月
+- [3rd place of STABILO’s Handwriting Recognition Challenge](https://stabilodigital.com/submissions-2021/), [The ACM international joint conference on pervasive and ubiquitous computing (UbiComp) 2021](https://www.ubicomp.org/ubicomp2021/cfp/student-challenges-2/), 2021.9.
 - 学業成績優秀賞, [電子情報通信学会東海支部](https://www.ieice.org/tokai/), 2021年3月
 - 学部長表彰, [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/), 2021年3月
 - [2019年度 大実験成績優秀者表彰](https://www.nuee.nagoya-u.ac.jp/kyoiku/gakubu/experiment/h2019.php), [名古屋大学工学部](https://www.engg.nagoya-u.ac.jp/), 2020年3月
