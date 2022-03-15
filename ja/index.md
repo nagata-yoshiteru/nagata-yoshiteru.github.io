@@ -29,6 +29,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## 資格
 
+| 2022.3 | [JDLA Deep Learning for ENGINEER (E資格) 2022 #1](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/U0IwYTdHZnRXandBMFdvdzVhVWJ4dz09) |
 | 2021.4 | 無線従事者免許 (第一級陸上特殊無線技士, CBUJ00059) |
 | 2021.4 | 無線従事者免許 (第三級海上特殊無線技士, CBUW00027) |
 | 2019.10 | freeCodeCamp [Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc8c41b85e-8207-41e4-a738-50207bfaa71c/responsive-web-design) |
