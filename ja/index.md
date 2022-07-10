@@ -13,6 +13,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 - **潜在需要推定**
 - 交通可視化
 - 3Dモデリング
+- データ変換
 
 ## 学歴
 
@@ -22,6 +23,8 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## インターンシップ / 職歴
 
+| 2022.7 - | [株式会社ExData](https://exdata.co.jp/) 代表取締役 |
+| 2021.9 - 2021.10 | [トヨタ自動車株式会社](https://global.toyota/) コネクティッドカンパニー インターンシップ |
 | 2021.8 - 2021.9 | [ヤフー株式会社](https://about.yahoo.co.jp/) エンジニアインターンシップ (ショッピング) |
 | 2021.8 | [LINE株式会社](https://linecorp.com/ja/) 技術職ハッカソンインターンシップ |
 | 2018.12 - | [株式会社TARVO](https://tarvo.co.jp/) 開発部 |

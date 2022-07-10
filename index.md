@@ -13,6 +13,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 - **Latent Demand Estimation**
 - Traffic Visualization
 - 3D Modeling
+- Data Transformation
 
 ## Education History
 
@@ -22,6 +23,8 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## Internship / Carrier History
 
+| 2022.7 - | CEO, [ExData, Inc.](https://exdata.co.jp/) |
+| 2021.9 - 2021.10 | Internship, [TOYOTA MOTOR CORPORATION](https://global.toyota/) Connected Company |
 | 2021.8 - 2021.9 | Engineering Internship, [Yahoo Japan Corporation](https://about.yahoo.co.jp/) |
 | 2021.8 | Engineering Hackathon Internship, [LINE Corporation](https://linecorp.com/en/) |
 | 2018.12 - | Department of Development, [TARVO, Inc.](https://tarvo.co.jp/) |
