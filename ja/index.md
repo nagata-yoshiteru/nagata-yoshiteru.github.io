@@ -4,7 +4,7 @@ layout: default-ja
 
 # 自己紹介
 
-Nagata Yoshiteru is a Master student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
+Nagata Yoshiteru is a doctoral student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
 
 ## 研究分野
 
@@ -54,6 +54,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
   - Apache / Nginx
   - MySQL
   - Go
+  - Python
 - クライアントアプリケーション開発
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
