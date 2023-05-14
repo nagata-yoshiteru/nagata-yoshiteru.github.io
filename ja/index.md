@@ -101,7 +101,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 # プロジェクト
 
-TBA
+| 2022.12 - | [NICT 委託研究 - データ利活用等のデジタル化の推進による社会課題・地域課題解決のための実証型研究開発「データ・サステナビリティのための実世界データ醸造基盤」(22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
 
 # 受賞歴
 
