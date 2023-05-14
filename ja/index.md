@@ -4,7 +4,7 @@ layout: default-ja
 
 # 自己紹介
 
-Nagata Yoshiteru is a Master student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
+Nagata Yoshiteru is a doctoral student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
 
 ## 研究分野
 
@@ -54,6 +54,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
   - Apache / Nginx
   - MySQL
   - Go
+  - Python
 - クライアントアプリケーション開発
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
@@ -72,6 +73,10 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 # 出版物
 
 ## 2022
+
+- **永田 吉輝**，東浦 圭亮，下里 浩昇，山口 公平，村井 大地，深谷 愓也，坂倉 波輝，戸出 悠太，浦野 健太，米澤 拓郎，河口 信夫，挺屋 友幹:  
+  深層学習を用いたIMU付きペンによる手書き文字認識．  
+  [画像ラボ 2022年11月号](https://www.nikko-pb.co.jp/products/detail.php?product_id=5411)  
 
 - 挺屋 友幹，**永田 吉輝**，東浦 圭亮，下里 浩昇，山口 公平，村井 大地，深谷 愓也，坂倉 波輝，戸出 悠太，浦野 健太，米澤 拓郎，河口 信夫:  
   深層学習を用いたIMU付きペンによる手書き文字認識．  
