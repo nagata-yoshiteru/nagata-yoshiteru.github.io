@@ -71,6 +71,11 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 # 出版物
 
+## 2023
+- 永田 吉輝（名古屋大学/株式会社ExData），浦野 健太，米澤 拓郎，河口 信夫: 
+  通過情報を活用した移動経路分析・応用手法の評価.  
+  第78回ユビキタスコンピューティングシステム研究発表会，2023年5月  
+
 ## 2022
 
 - 挺屋 友幹，**永田 吉輝**，東浦 圭亮，下里 浩昇，山口 公平，村井 大地，深谷 愓也，坂倉 波輝，戸出 悠太，浦野 健太，米澤 拓郎，河口 信夫:  
@@ -91,7 +96,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## 2020
 
-- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi：  
+- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020年12月 (出版：2021年5月)](https://link.springer.com/book/10.1007/978-3-030-51005-3)  
 - **永田 吉輝**，廣井 慧，米澤 拓郎，河口 信夫：  

@@ -71,6 +71,12 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 # Publications
 
+## 2023
+- **Yoshiteru Nagata**，Kenta Urano, Takuro Yonezawa，Nobuo Kawaguchi:  
+  Evaluation of the Method for Analyzing Person Trajectory and Application using Passing Information.  
+  In 78th Seminor on Ubiquitous Computing System SIG, 2023.5.   
+
+
 ## 2022
 
 - Tomoki Choya, **Yoshiteru Nagata**, Keisuke Higashiura, Hironori Shimosato,Kohei Yamaguchi, Daichi Murai, Nobuya Fukatani, Namiki Sakakura,Yuta Toide, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
@@ -91,7 +97,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## 2020
 
-- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi：  
+- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters.  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/book/10.1007/978-3-030-51005-3)  
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
