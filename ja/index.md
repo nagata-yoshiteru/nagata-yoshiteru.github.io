@@ -73,7 +73,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 # 出版物
 
 ## 2023
-- 永田 吉輝（名古屋大学/株式会社ExData），浦野 健太，米澤 拓郎，河口 信夫: 
+- 永田 吉輝，浦野 健太，米澤 拓郎，河口 信夫:  
   通過情報を活用した移動経路分析・応用手法の評価.  
   第78回ユビキタスコンピューティングシステム研究発表会，2023年5月  
 
