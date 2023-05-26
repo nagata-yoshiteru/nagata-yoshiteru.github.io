@@ -4,7 +4,7 @@ layout: default
 
 # Biography
 
-Nagata Yoshiteru is a Master student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
+Nagata Yoshiteru is a doctoral student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
 
 ## Research Interests
 
@@ -79,8 +79,12 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 ## 2022
 
+- **Yoshiteru Nagata**, Keisuke Higashiura, Hironori Shimosato,Kohei Yamaguchi, Daichi Murai, Nobuya Fukatani, Namiki Sakakura,Yuta Toide, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi, Tomoki Choya:  
+  Handwriting Recognition for IMU-Equipped Pen using Deep Learning.  
+  [Image Laboratory, 2022.11.](https://www.nikko-pb.co.jp/products/detail.php?product_id=5411)  
+
 - Tomoki Choya, **Yoshiteru Nagata**, Keisuke Higashiura, Hironori Shimosato,Kohei Yamaguchi, Daichi Murai, Nobuya Fukatani, Namiki Sakakura,Yuta Toide, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
-  Deep Learning for Handwriting RecognitionUsing IMU-Equipped Pen.  
+  Deep Learning for Handwriting Recognition Using IMU-Equipped Pen.  
   Workshop of Social System and Information Technology (WSSIT2022), 2022.3.  
 
 ## 2021
@@ -107,7 +111,7 @@ Nagata Yoshiteru is a Master student in the Department of Information and Commun
 
 # Projects
 
-TBA
+| 2022.12 - | [NICT Contract Research - Demonstration-based Research and Development for Solving Social and Regional Issues by Promoting Data Utilization and Other Digitalization "Real World Data Brewing Platform for Data Sustainability" (22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
 
 # Awards
 
