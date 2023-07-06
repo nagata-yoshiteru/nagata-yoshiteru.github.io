@@ -97,7 +97,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi：  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters.  
-  [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/book/10.1007/978-3-030-51005-3)  
+  [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
   Privacy Preserving Person-Flow Estimation using Multiple 3D People Counter.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.  
