@@ -71,6 +71,12 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # Publications
 
+## 2023
+- **Yoshiteru Nagata**，Kenta Urano, Takuro Yonezawa，Nobuo Kawaguchi:  
+  Evaluation of the Method for Analyzing Person Trajectory and Application using Passing Information.  
+  In 78th Seminor on Ubiquitous Computing System SIG, 2023.5.   
+
+
 ## 2022
 
 - **Yoshiteru Nagata**, Keisuke Higashiura, Hironori Shimosato,Kohei Yamaguchi, Daichi Murai, Nobuya Fukatani, Namiki Sakakura,Yuta Toide, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi, Tomoki Choya:  
@@ -95,7 +101,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2020
 
-- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi：  
+- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters.  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
@@ -105,7 +111,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # Projects
 
-TBA
+| 2022.12 - | [NICT Contract Research - Demonstration-based Research and Development for Solving Social and Regional Issues by Promoting Data Utilization and Other Digitalization "Real World Data Brewing Platform for Data Sustainability" (22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
 
 # Awards
 

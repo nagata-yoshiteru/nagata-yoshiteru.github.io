@@ -72,6 +72,11 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # 出版物
 
+## 2023
+- 永田 吉輝，浦野 健太，米澤 拓郎，河口 信夫:  
+  通過情報を活用した移動経路分析・応用手法の評価.  
+  第78回ユビキタスコンピューティングシステム研究発表会，2023年5月  
+
 ## 2022
 
 - **永田 吉輝**，東浦 圭亮，下里 浩昇，山口 公平，村井 大地，深谷 愓也，坂倉 波輝，戸出 悠太，浦野 健太，米澤 拓郎，河口 信夫，挺屋 友幹:  
@@ -96,7 +101,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2020
 
-- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi：  
+- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020年12月 (出版：2021年5月)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
 - **永田 吉輝**，廣井 慧，米澤 拓郎，河口 信夫：  
@@ -106,7 +111,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # プロジェクト
 
-TBA
+| 2022.12 - | [NICT 委託研究 - データ利活用等のデジタル化の推進による社会課題・地域課題解決のための実証型研究開発「データ・サステナビリティのための実世界データ醸造基盤」(22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
 
 # 受賞歴
 
