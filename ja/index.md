@@ -9,6 +9,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 ## 研究分野
 
 - **ユビキタスコンピューティング**
+- **実世界データ管理**
 - **人流推定**
 - **潜在需要推定**
 - 交通可視化

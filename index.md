@@ -9,6 +9,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 ## Research Interests
 
 - **Ubiquitous Computing**
+- **Real World Data Management**
 - **People Flow Estimation**
 - **Latent Demand Estimation**
 - Traffic Visualization
