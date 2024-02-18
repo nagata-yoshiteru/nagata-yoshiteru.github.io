@@ -55,6 +55,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   - MySQL
   - Go
   - Python
+  - Rust
 - クライアントアプリケーション開発
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
@@ -73,7 +74,12 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 # 出版物
 
 ## 2023
-- 永田 吉輝，浦野 健太，米澤 拓郎，河口 信夫:  
+- 小濱 大輝，**永田 吉輝**，安武 和成，浦野 健太，片山 晋，米澤 拓郎，河口 信夫:  
+  全方位カメラによる設備外形を考慮した天井パノラマ画像合成手法  
+  マルチメディア，分散，協調とモバイル (DICOMO2023) シンポジウム，2023年7月  
+  **[優秀論文賞，優秀プレゼンテーション賞](https://dicomo.org/2023/commendation/)**
+
+- **永田 吉輝**，浦野 健太，米澤 拓郎，河口 信夫:  
   通過情報を活用した移動経路分析・応用手法の評価.  
   第78回ユビキタスコンピューティングシステム研究発表会，2023年5月  
 
@@ -111,7 +117,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # プロジェクト
 
-| 2022.12 - | [NICT 委託研究 - データ利活用等のデジタル化の推進による社会課題・地域課題解決のための実証型研究開発「データ・サステナビリティのための実世界データ醸造基盤」(22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
+| 2022.12 - 2025.3 | [NICT 委託研究 - データ利活用等のデジタル化の推進による社会課題・地域課題解決のための実証型研究開発「データ・サステナビリティのための実世界データ醸造基盤」(22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
 
 # 受賞歴
 

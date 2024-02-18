@@ -54,6 +54,8 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   - Apache / Nginx
   - MySQL
   - Go
+  - Python
+  - Rust
 - Client Application Development
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
@@ -72,10 +74,14 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 # Publications
 
 ## 2023
-- **Yoshiteru Nagata**，Kenta Urano, Takuro Yonezawa，Nobuo Kawaguchi:  
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Panoramic Ceiling Image Synthesis Method Considering Fixture Outline using 360° Camera  
+  In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2023) Symposium, 2023.7.  
+  **[Excellent Paper Award, Excellent Presentation Award](https://dicomo.org/2023/commendation/)**
+
+- **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa，Nobuo Kawaguchi:  
   Evaluation of the Method for Analyzing Person Trajectory and Application using Passing Information.  
   In 78th Seminor on Ubiquitous Computing System SIG, 2023.5.   
-
 
 ## 2022
 
@@ -111,7 +117,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # Projects
 
-| 2022.12 - | [NICT Contract Research - Demonstration-based Research and Development for Solving Social and Regional Issues by Promoting Data Utilization and Other Digitalization "Real World Data Brewing Platform for Data Sustainability" (22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
+| 2022.12 - 2025.3 | [NICT Contract Research - Demonstration-based Research and Development for Solving Social and Regional Issues by Promoting Data Utilization and Other Digitalization "Real World Data Brewing Platform for Data Sustainability" (22609)](https://www.nict.go.jp/publicity/topics/2022/10/12-1.html) |
 
 # Awards
 
