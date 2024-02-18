@@ -74,6 +74,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 # Publications
 
 ## 2023
+- Kazuma Kano, Keisuke Higashiura, Koki Takigami, Kohei Yamaguchi, **Yoshiteru Nagata**, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Hybrid Positioning with Deep-Learning-based PDR and BLE Beacons.  
+  HCG Symposium, 2023.12.
+
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
   Panoramic Ceiling Image Synthesis Method Prioritizing Fixture Outlines Using an Omnidirectional Camera.  
   In 14th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2023.12.  

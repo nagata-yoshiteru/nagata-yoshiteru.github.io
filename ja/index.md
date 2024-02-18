@@ -74,6 +74,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 # 出版物
 
 ## 2023
+- 加納 一馬，東浦 圭亮，瀧上 昂希，山口 公平，**永田 吉輝**，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  深層学習PDRとBLEビーコンを用いたハイブリッド測位.  
+  HCGシンポジウム, 2023.12.
+
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
   Panoramic Ceiling Image Synthesis Method Prioritizing Fixture Outlines Using an Omnidirectional Camera.  
   In 14th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2023.12.  
