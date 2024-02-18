@@ -75,7 +75,16 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2023
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
-  Panoramic Ceiling Image Synthesis Method Considering Fixture Outline using 360° Camera  
+  Panoramic Ceiling Image Synthesis Method Prioritizing Fixture Outlines Using an Omnidirectional Camera.  
+  In 14th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2023.12.  
+  **[Best Paper Award](https://www.icmu.org/icmu2023/award.html)**
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Multi-View Image Extraction of Ceiling Equipment using 360Camera in Ceiling Plan Support System.  
+  The 41st National Conference of the Institute of Electrical Installation Engineers of Japan, 2023.8.
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Panoramic Ceiling Image Synthesis Method Considering Fixture Outline using 360° Camera.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2023) Symposium, 2023.7.  
   **[Excellent Paper Award, Excellent Presentation Award](https://dicomo.org/2023/commendation/)**
 
@@ -97,7 +106,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimating and Leveraging Latent Social Demand Based on IoT sensors: An Empirical Study in a Large Public Park.  
-  In 13th International Conference on Mobile Computing and Ubiquitous Network (ICMU), 2021.11.  
+  In 13th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2021.11.  
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimation of Potential Social Demands Based on IoT and a FlexibleExchange Infrastructure Between Demands and Service Supply.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2021) Symposium, 2021.6.  

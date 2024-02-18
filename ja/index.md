@@ -74,6 +74,15 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 # 出版物
 
 ## 2023
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kenta Urano, Shin Katayama, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Panoramic Ceiling Image Synthesis Method Prioritizing Fixture Outlines Using an Omnidirectional Camera.  
+  In 14th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2023.12.  
+  **[Best Paper Award](https://www.icmu.org/icmu2023/award.html)**
+
+- 小濱 大輝，**永田 吉輝**，安武 和成，浦野 健太，片山 晋，米澤 拓郎，河口 信夫:  
+  天伏図作成補助システムにおける 全方位カメラを用いた天井設備の多視点画像抽出手法  
+  2023 年(第41回)電気設備学会全国大会，2023年8月
+
 - 小濱 大輝，**永田 吉輝**，安武 和成，浦野 健太，片山 晋，米澤 拓郎，河口 信夫:  
   全方位カメラによる設備外形を考慮した天井パノラマ画像合成手法  
   マルチメディア，分散，協調とモバイル (DICOMO2023) シンポジウム，2023年7月  
@@ -97,7 +106,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimating and Leveraging Latent Social Demand Based on IoT sensors: An Empirical Study in a Large Public Park.  
-  In 13th International Conference on Mobile Computing and Ubiquitous Network (ICMU), 2021.11.  
+  In 13th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2021.11.  
 - **永田 吉輝**，村井 大地，片山 晋，浦野 健太，青木 俊介，米澤 拓郎，河口 信夫:  
   IoTに基づく潜在的社会需要の推定と柔軟なサービス需給交換基盤.  
   マルチメディア，分散，協調とモバイル (DICOMO 2021) シンポジウム，2021年6月  
