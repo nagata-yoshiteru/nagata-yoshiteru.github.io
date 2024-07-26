@@ -78,7 +78,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 ## 2024
 
 - **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
-  Person's Travel Path Estimation Method Using Privacy-free Passing Data in Large Public Space.
+  Person's Travel Path Estimation Method Using Privacy-free Passing Data in Large Public Space.  
   Journal of Information Processing (Japanese) Vol.65 No.6, 2024.6.
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  

@@ -77,7 +77,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2024
 
-- 永田 吉輝，浦野 健太，米澤 拓郎，河口 信夫:  
+- **永田 吉輝**，浦野 健太，米澤 拓郎，河口 信夫:  
   プライバシフリーな通過情報を用いた大規模施設における移動経路推定手法.  
   情報処理学会論文誌 Vol.65 No.6，2024年6月
 
