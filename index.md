@@ -60,6 +60,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - Client Application Development
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
+  - Electron
 
 ### Hardware Development
 
@@ -74,7 +75,18 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # Publications
 
+## 2024
+
+- **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Person's Travel Path Estimation Method Using Privacy-free Passing Data in Large Public Space.
+  Journal of Information Processing (Japanese) Vol.65 No.6, 2024.6.
+
+- **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Poster: Sustainable Data Management Platform for Spatio-Temporal Datasets.  
+  ACM MobiSys 2024 Poster, 2024.6.
+
 ## 2023
+
 - Kazuma Kano, Keisuke Higashiura, Koki Takigami, Kohei Yamaguchi, **Yoshiteru Nagata**, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Hybrid Positioning with Deep-Learning-based PDR and BLE Beacons.  
   HCG Symposium, 2023.12.
@@ -93,7 +105,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2023) Symposium, 2023.7.  
   **[Excellent Paper Award, Excellent Presentation Award](https://dicomo.org/2023/commendation/)**
 
-- **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa，Nobuo Kawaguchi:  
+- **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Evaluation of the Method for Analyzing Person Trajectory and Application using Passing Information.  
   In 78th Seminor on Ubiquitous Computing System SIG, 2023.5.   
 
@@ -112,9 +124,11 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimating and Leveraging Latent Social Demand Based on IoT sensors: An Empirical Study in a Large Public Park.  
   In 13th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2021.11.  
+
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimation of Potential Social Demands Based on IoT and a FlexibleExchange Infrastructure Between Demands and Service Supply.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2021) Symposium, 2021.6.  
+
 - F. Potorti et al.:
   Off-line Evaluation of Indoor Positioning Systems in Different Scenarios: The Experiences from IPIN 2020 Competition.
   In IEEE Sensors Journal, [doi: 10.1109/JSEN.2021.3083149](https://doi.org/10.1109/JSEN.2021.3083149).
@@ -124,6 +138,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters.  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
+
 - **Yoshiteru Nagata**, Kei Hiroi, Takuro Yonezawa, Nobuo Kawaguchi:  
   Privacy Preserving Person-Flow Estimation using Multiple 3D People Counter.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2020) Symposium, 2020.6.  

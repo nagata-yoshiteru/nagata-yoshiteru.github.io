@@ -60,6 +60,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - クライアントアプリケーション開発
   - **Android** (Java / **Kotlin**)
   - Windows (C++/C#)
+  - Electron
 
 ### ハードウェア開発
 
@@ -74,7 +75,18 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 # 出版物
 
+## 2024
+
+- 永田 吉輝，浦野 健太，米澤 拓郎，河口 信夫:  
+  プライバシフリーな通過情報を用いた大規模施設における移動経路推定手法.  
+  情報処理学会論文誌 Vol.65 No.6，2024年6月
+
+- **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Poster: Sustainable Data Management Platform for Spatio-Temporal Datasets.  
+  ACM MobiSys 2024 Poster, 2024.6.
+
 ## 2023
+
 - 加納 一馬，東浦 圭亮，瀧上 昂希，山口 公平，**永田 吉輝**，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
   深層学習PDRとBLEビーコンを用いたハイブリッド測位.  
   HCGシンポジウム, 2023.12.
@@ -112,9 +124,11 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - **Yoshiteru Nagata**, Daichi Murai, Shin Katayama, Kenta Urano, Shunsuke Aoki, Takuro Yonezawa, Nobuo Kawaguchi:  
   Estimating and Leveraging Latent Social Demand Based on IoT sensors: An Empirical Study in a Large Public Park.  
   In 13th International Conference on Mobile Computing and Ubiquitous Networking (ICMU), 2021.11.  
+
 - **永田 吉輝**，村井 大地，片山 晋，浦野 健太，青木 俊介，米澤 拓郎，河口 信夫:  
   IoTに基づく潜在的社会需要の推定と柔軟なサービス需給交換基盤.  
   マルチメディア，分散，協調とモバイル (DICOMO 2021) シンポジウム，2021年6月  
+
 - F. Potorti et al.:
   Off-line Evaluation of Indoor Positioning Systems in Different Scenarios: The Experiences from IPIN 2020 Competition.
   In IEEE Sensors Journal, [doi: 10.1109/JSEN.2021.3083149](https://doi.org/10.1109/JSEN.2021.3083149).
@@ -124,6 +138,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020年12月 (出版：2021年5月)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
+
 - **永田 吉輝**，廣井 慧，米澤 拓郎，河口 信夫：  
   複数の3D通過センサによるプライバシーを考慮した人流推定手法  
   マルチメディア，分散，協調とモバイル (DICOMO 2020) シンポジウム，2020年6月  
