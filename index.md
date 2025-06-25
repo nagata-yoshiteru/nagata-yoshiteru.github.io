@@ -46,7 +46,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 ### Software Development
 
 - Web Development
-  - **HTML / CSS / Javascript**
+  - **HTML / CSS / Javascript / Typescript**
   - **React**
   - PHP
   - Ruby
@@ -74,6 +74,12 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - Piano
 
 # Publications
+
+## 2025
+
+- **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
+  IEEE Access, 2025.6.
 
 ## 2024
 
