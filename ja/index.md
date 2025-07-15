@@ -79,13 +79,13 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
-  IEEE Access, 2025.6.
+  IEEE Access Vol.13 p.114159-114178, 2025.6.
 
 ## 2024
 
 - **永田 吉輝**，浦野 健太，米澤 拓郎，河口 信夫:  
   プライバシフリーな通過情報を用いた大規模施設における移動経路推定手法.  
-  情報処理学会論文誌 Vol.65 No.6，2024年6月
+  情報処理学会論文誌 Vol.65 No.6 p.1018-1032，2024年6月
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Poster: Sustainable Data Management Platform for Spatio-Temporal Datasets.  
