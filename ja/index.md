@@ -81,9 +81,17 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   360 °カメラを用いた天井伏図の自動作成技術の開発（第2報）.  
   令和7年度空気調和・衛生工学会大会，2025年9月
 
+- 安武 和成，酒見 和幸，小濱 大輝，**永田 吉輝**，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  360 °カメラを用いた天井伏図の自動作成技術の開発（第1報）.  
+  令和7年度空気調和・衛生工学会大会，2025年9月
+
 - 小濱 大輝，**永田 吉輝**，安武 和成，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
   360°動画を用いた 2D Gaussian Splatting による現場の高精度モデル作成手法の検討.  
-  2025年（第43回）電気設備学会全国大会，2025年8月
+  2025年（第43回）電気設備学会全国大会，p.210-211，2025年8月.
+
+- 安武 和成，小濱 大輝，**永田 吉輝**，浦野 健太，河口 信夫:  
+  360°カメラ用天伏図自動作成機能付きストリートビューの開発.  
+  2025年（第43回）電気設備学会全国大会，p.502-503，2025年8月.
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
@@ -94,6 +102,15 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   IPSJ Journal of Information Processing Vol.33 p.245-258, 2025.3.
 
 ## 2024
+
+- 小濱 大輝，**永田 吉輝**，安武 和成，酒見 和幸，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  スマートフォン・全方位カメラを用いた作業効率化のための半自動天伏図作成システム.  
+  令和6年度空気調和・衛生工学会大会，p.485-488，2024年9月.  
+  **優秀講演奨励賞**
+
+- 小濱 大輝，**永田 吉輝**，安武 和成，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  天伏図自動復元のための設備位置・形状アライメント手法.  
+  2024年（第42回）電気設備学会全国大会，p.76-77，2024年8月.
 
 - **永田 吉輝**，浦野 健太，米澤 拓郎，河口 信夫:  
   [プライバシフリーな通過情報を用いた大規模施設における移動経路推定手法](https://doi.org/10.20729/00234832).  
@@ -116,7 +133,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - 小濱 大輝，**永田 吉輝**，安武 和成，浦野 健太，片山 晋，米澤 拓郎，河口 信夫:  
   天伏図作成補助システムにおける 全方位カメラを用いた天井設備の多視点画像抽出手法  
-  2023 年(第41回)電気設備学会全国大会，2023年8月
+  2023年（第41回）電気設備学会全国大会，2023年8月
 
 - 小濱 大輝，**永田 吉輝**，安武 和成，浦野 健太，片山 晋，米澤 拓郎，河口 信夫:  
   全方位カメラによる設備外形を考慮した天井パノラマ画像合成手法  

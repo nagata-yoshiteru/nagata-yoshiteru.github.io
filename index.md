@@ -81,9 +81,17 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   Developing technology to automatically generate a ceiling plan drawing using a 360° camera (Rep. 2).  
   The Conference of the Society of Heating, Air-Conditioning and Sanitary Engineers of Japan，2025.9.
 
+- Kazushige Yasutake, Kazuyuki Sakemi, Daiki Kohama, **Yoshiteru Nagata**, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Developing technology to automatically generate a ceiling plan drawing using a 360° camera (Rep. 1).  
+  The Conference of the Society of Heating, Air-Conditioning and Sanitary Engineers of Japan，2025.9.
+
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   A Study on High-Precision Modeling of As-Built Environments Using 2D Gaussian Splatting with Omnidirectional Videos.  
-  The 43rd National Conference of the Institute of Electrical Installation Engineers of Japan, 2025.8.
+  The 43rd National Conference of the Institute of Electrical Installation Engineers of Japan, p.210-211, 2025.8.
+
+- Kazushige Yasutake, Daiki Kohama, **Yoshiteru Nagata**, Kenta Urano, Nobuo Kawaguchi:  
+  360°カメラ用天伏図自動作成機能付きストリートビューの開発.  
+  The 43rd National Conference of the Institute of Electrical Installation Engineers of Japan, p.502-503, 2025.8.
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
@@ -94,6 +102,15 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   IPSJ Journal of Information Processing Vol.33 p.245-258, 2025.3.
 
 ## 2024
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kazuyuki Sakemi, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  A Semi-Automated Ceiling Plan Generation System Using a Smartphone / an Omnidirectional Camera for Efficiency-Enhancing.  
+  The 42nd National Conference of the Institute of Electrical Installation Engineers of Japan, p.485-488, 2024.9.  
+  **Outstanding Presentation Encouragement Award**
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Fixture Positions and ShapesAlignment Method for Automatic Ceiling Plan Reconstruction.  
+  The 42nd National Conference of the Institute of Electrical Installation Engineers of Japan, p.76-77, 2024.8.
 
 - **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [Person's Travel Path Estimation Method Using Privacy-free Passing Data in Large Public Space](https://doi.org/10.20729/00234832).  
