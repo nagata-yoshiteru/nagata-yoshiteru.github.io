@@ -77,14 +77,26 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2025
 
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Kazuyuki Sakemi, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Developing technology to automatically generate a ceiling plan drawing using a 360° camera (Rep. 2).  
+  The Conference of the Society of Heating, Air-Conditioning and Sanitary Engineers of Japan，2025.9.
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  A Study on High-Precision Modeling of As-Built Environments Using 2D Gaussian Splatting with Omnidirectional Videos.  
+  The 43rd National Conference of the Institute of Electrical Installation Engineers of Japan, 2025.8.
+
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
   IEEE Access Vol.13 p.114159-114178, 2025.6.
 
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:
+  [Fixture-aware Panoramic Ceiling Image Synthesis using an Omnidirectional Camera](https://doi.org/10.2197/ipsjjip.33.245).  
+  IPSJ Journal of Information Processing Vol.33 p.245-258, 2025.3.
+
 ## 2024
 
 - **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
-  Person's Travel Path Estimation Method Using Privacy-free Passing Data in Large Public Space.  
+  [Person's Travel Path Estimation Method Using Privacy-free Passing Data in Large Public Space](https://doi.org/10.20729/00234832).  
   Journal of Information Processing (Japanese) Vol.65 No.6 p.1018-1032, 2024.6.
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
@@ -141,7 +153,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2020
 
-- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
+- **Yoshiteru Nagata**, Takuro Yonezawa, Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters.  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020.12. (Published on 2021.5.)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
 

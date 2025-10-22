@@ -77,14 +77,26 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2025
 
+- 小濱 大輝，**永田 吉輝**，安武 和成，酒見 和幸，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  360 °カメラを用いた天井伏図の自動作成技術の開発（第2報）.  
+  令和7年度空気調和・衛生工学会大会，2025年9月
+
+- 小濱 大輝，**永田 吉輝**，安武 和成，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  360°動画を用いた 2D Gaussian Splatting による現場の高精度モデル作成手法の検討.  
+  2025年（第43回）電気設備学会全国大会，2025年8月
+
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
   IEEE Access Vol.13 p.114159-114178, 2025.6.
 
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:
+  [Fixture-aware Panoramic Ceiling Image Synthesis using an Omnidirectional Camera](https://doi.org/10.2197/ipsjjip.33.245).  
+  IPSJ Journal of Information Processing Vol.33 p.245-258, 2025.3.
+
 ## 2024
 
 - **永田 吉輝**，浦野 健太，米澤 拓郎，河口 信夫:  
-  プライバシフリーな通過情報を用いた大規模施設における移動経路推定手法.  
+  [プライバシフリーな通過情報を用いた大規模施設における移動経路推定手法](https://doi.org/10.20729/00234832).  
   情報処理学会論文誌 Vol.65 No.6 p.1018-1032，2024年6月
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
@@ -141,7 +153,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## 2020
 
-- **Yoshiteru Nagata**，Takuro Yonezawa，Nobuo Kawaguchi:  
+- **Yoshiteru Nagata**, Takuro Yonezawa, Nobuo Kawaguchi:  
   Person-Flow Estimation with Preserving Privacy using Multiple 3D People Counters  
   [In Proceedings of 5th EAI International Conference on IoT in Urban Space，2020年12月 (出版：2021年5月)](https://link.springer.com/chapter/10.1007/978-3-030-76063-2_41)  
 
