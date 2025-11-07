@@ -79,11 +79,11 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - 小濱 大輝，**永田 吉輝**，安武 和成，酒見 和幸，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
   360 °カメラを用いた天井伏図の自動作成技術の開発（第2報）.  
-  令和7年度空気調和・衛生工学会大会，2025年9月
+  令和7年度空気調和・衛生工学会大会，2025年9月.
 
 - 安武 和成，酒見 和幸，小濱 大輝，**永田 吉輝**，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
   360 °カメラを用いた天井伏図の自動作成技術の開発（第1報）.  
-  令和7年度空気調和・衛生工学会大会，2025年9月
+  令和7年度空気調和・衛生工学会大会，2025年9月.
 
 - 小濱 大輝，**永田 吉輝**，安武 和成，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
   360°動画を用いた 2D Gaussian Splatting による現場の高精度モデル作成手法の検討.  
@@ -95,7 +95,8 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
-  IEEE Access Vol.13 p.114159-114178, 2025.6.
+  IEEE Access Vol.13 p.114159-114178, 2025.6.  
+  **[Featured Article](https://ieeeaccess.ieee.org/featured-article/semantipack_efficient-real-world-data_compressor_using_structural_semantic_metadata/)**
 
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:
   [Fixture-aware Panoramic Ceiling Image Synthesis using an Omnidirectional Camera](https://doi.org/10.2197/ipsjjip.33.245).  

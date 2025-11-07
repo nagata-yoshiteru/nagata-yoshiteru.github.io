@@ -95,7 +95,8 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
-  IEEE Access Vol.13 p.114159-114178, 2025.6.
+  IEEE Access Vol.13 p.114159-114178, 2025.6.  
+  **[Featured Article](https://ieeeaccess.ieee.org/featured-article/semantipack_efficient-real-world-data_compressor_using_structural_semantic_metadata/)**
 
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:
   [Fixture-aware Panoramic Ceiling Image Synthesis using an Omnidirectional Camera](https://doi.org/10.2197/ipsjjip.33.245).  
