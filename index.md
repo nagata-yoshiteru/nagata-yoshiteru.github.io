@@ -90,13 +90,17 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   The 43rd National Conference of the Institute of Electrical Installation Engineers of Japan, p.210-211, 2025.8.
 
 - Kazushige Yasutake, Daiki Kohama, **Yoshiteru Nagata**, Kenta Urano, Nobuo Kawaguchi:  
-  360°カメラ用天伏図自動作成機能付きストリートビューの開発.  
+  Development of Street View with Automatic Ceiling Map Generation for 360° Cameras.  
   The 43rd National Conference of the Institute of Electrical Installation Engineers of Japan, p.502-503, 2025.8.
 
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   [SemantiPack: An Efficient Real-World Data Compressor using Structural and Semantic Metadata](https://doi.org/10.1109/ACCESS.2025.3583829).  
   IEEE Access Vol.13 p.114159-114178, 2025.6.  
   **[Featured Article (Editor's Choice)](https://ieeeaccess.ieee.org/featured-article/semantipack_efficient-real-world-data_compressor_using_structural_semantic_metadata/)**
+
+- Yuma Suzuki, Kairi Takaki, Yusuke Asai, **Yoshiteru Nagata**, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Study of Building a Simulation System for Logistics Warehouses Using Deep Learning for Worker Behavior Modeling.  
+  Research Report on Information Processing Society of Japan 2025(DPS-203)，2025.5.
 
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:
   [Fixture-aware Panoramic Ceiling Image Synthesis using an Omnidirectional Camera](https://doi.org/10.2197/ipsjjip.33.245).  

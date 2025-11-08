@@ -98,6 +98,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   IEEE Access Vol.13 p.114159-114178, 2025.6.  
   **[Featured Article (Editor's Choice)](https://ieeeaccess.ieee.org/featured-article/semantipack_efficient-real-world-data_compressor_using_structural_semantic_metadata/)**
 
+- 鈴木 優真，高木 魁利，浅井 悠佑，**永田 吉輝**，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  深層学習を用いた作業員行動のモデル化による物流倉庫内シミュレーション構築.  
+  情報処理学会研究報告 2025(DPS-203)，2025年5月.
+
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:
   [Fixture-aware Panoramic Ceiling Image Synthesis using an Omnidirectional Camera](https://doi.org/10.2197/ipsjjip.33.245).  
   IPSJ Journal of Information Processing Vol.33 p.245-258, 2025.3.
