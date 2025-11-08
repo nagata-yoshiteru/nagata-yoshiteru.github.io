@@ -113,6 +113,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   令和6年度空気調和・衛生工学会大会，p.485-488，2024年9月.  
   **優秀講演奨励賞**
 
+- 市川 直人，加納 一馬，**永田 吉輝**，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
+  エッジ音声処理とCAN通信を用いた多数接続可能な発話方向推定システム.  
+  電気・電子・情報関係学会東海支部連合大会講演論文集，2024年8月.
+
 - 小濱 大輝，**永田 吉輝**，安武 和成，片山 晋，浦野 健太，米澤 拓郎，河口 信夫:  
   天伏図自動復元のための設備位置・形状アライメント手法.  
   2024年（第42回）電気設備学会全国大会，p.76-77，2024年8月.
@@ -124,6 +128,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Poster: Sustainable Data Management Platform for Spatio-Temporal Datasets.  
   ACM MobiSys 2024 Poster, 2024.6.
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Demo: Assisting System for Creating Ceiling Plan Using a Video from a Smatrphone.  
+  ACM MobiSys 2024 Demo, 2024.6.
 
 ## 2023
 
@@ -144,6 +152,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   全方位カメラによる設備外形を考慮した天井パノラマ画像合成手法  
   マルチメディア，分散，協調とモバイル (DICOMO2023) シンポジウム，2023年7月  
   **[優秀論文賞，優秀プレゼンテーション賞](https://dicomo.org/2023/commendation/)**
+
+- 坂倉 波輝，田村 直樹，**永田 吉輝**，庄子 和之，浦野 健太，米澤 拓郎，河口 信夫:  
+  移動ビッグデータを用いた公共空間の価値評価手法.  
+  情報処理学会研究報告 2023(DPS-195)，2023年5月.
 
 - **永田 吉輝**，浦野 健太，米澤 拓郎，河口 信夫:  
   通過情報を活用した移動経路分析・応用手法の評価.  

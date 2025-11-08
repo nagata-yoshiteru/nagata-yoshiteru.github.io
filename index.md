@@ -113,6 +113,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   The 42nd National Conference of the Institute of Electrical Installation Engineers of Japan, p.485-488, 2024.9.  
   **Outstanding Presentation Encouragement Award**
 
+- Naoto Ichikawa, Kazuma Kano, **Yoshiteru Nagata**, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  CAN based Multi-Node Speech Direction Estimation System with Edge Processing.  
+  Proceedings of the Tokai Regional Joint Conference of Electrical, Electronic, and Information-Related Societies, 2024.8.
+
 - Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Fixture Positions and ShapesAlignment Method for Automatic Ceiling Plan Reconstruction.  
   The 42nd National Conference of the Institute of Electrical Installation Engineers of Japan, p.76-77, 2024.8.
@@ -124,6 +128,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 - **Yoshiteru Nagata**, Daiki Kohama, Yoshiki Watanabe, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Poster: Sustainable Data Management Platform for Spatio-Temporal Datasets.  
   ACM MobiSys 2024 Poster, 2024.6.
+
+- Daiki Kohama, **Yoshiteru Nagata**, Kazushige Yasutake, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  Demo: Assisting System for Creating Ceiling Plan Using a Video from a Smatrphone.  
+  ACM MobiSys 2024 Demo, 2024.6.
 
 ## 2023
 
@@ -144,6 +152,10 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   Panoramic Ceiling Image Synthesis Method Considering Fixture Outline using 360° Camera.  
   In Multimedia, Distributed, Cooperative, and Mobile (DICOMO 2023) Symposium, 2023.7.  
   **[Excellent Paper Award, Excellent Presentation Award](https://dicomo.org/2023/commendation/)**
+
+- Namiki Sakakura, Naoki Tamura, **Yoshiteru Nagata**, Kazuyuki Shoji, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+  A method for evaluating the value of public space using mobility big data.  
+  Research Report on Information Processing Society of Japan 2023(DPS-195), 2023.5.
 
 - **Yoshiteru Nagata**, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Evaluation of the Method for Analyzing Person Trajectory and Application using Passing Information.  
