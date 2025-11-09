@@ -167,11 +167,11 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
   Handwriting Recognition for IMU-Equipped Pen using Deep Learning.  
   [Image Laboratory, 2022.11.](https://www.nikko-pb.co.jp/products/detail.php?product_id=5411)  
 
-- Namiki Sakakura, Naoki Tamura, Yoshiteru Nagata, Kazuyuki Shoji, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+- Namiki Sakakura, Naoki Tamura, **Yoshiteru Nagata**, Kazuyuki Shoji, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Classification method of playground stay features using stay estimation results based on large-scale travel data.  
   In 75th Seminor on Ubiquitous Computing System SIG, 2022.9.
 
-- Namiki Sakakura, Naoki Tamura, Yoshiteru Nagata, Kazuyuki Shoji, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
+- Namiki Sakakura, Naoki Tamura, **Yoshiteru Nagata**, Kazuyuki Shoji, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi:  
   Classification method of playground stay features using stay estimation results based on large-scale travel data.  
   Tokai-Section Joint Conference on Electrical, Electronics, Information, and Related Engineering, 2022.8.
 
