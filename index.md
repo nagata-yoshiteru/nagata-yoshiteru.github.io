@@ -4,7 +4,9 @@ layout: default
 
 # Biography
 
-Nagata Yoshiteru is a doctoral student in the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University.
+Yoshiteru Nagata is the CEO of ExData, Inc.  
+He received a Ph.D. in Engineering from Nagoya University on March 25, 2026.  
+(He is also scheduled to serve as a researcher at the Institute of Innovation for Future Society, Nagoya University.)  
 
 ## Research Interests
 
@@ -18,7 +20,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 
 ## Education History
 
-| 2021.4 - | [Graduate School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
+| 2021.4 - 2026.3 | [Graduate School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
 | 2017.4 - 2021.3 | [School of Engineering, Nagoya University](https://www.engg.nagoya-u.ac.jp/) |
 | 2014.4 - 2017.3 | [Sakuradai High School](https://www.nagoya-c.ed.jp/school/sakuradai-h/) |
 
@@ -72,6 +74,7 @@ Nagata Yoshiteru is a doctoral student in the Department of Information and Comm
 ## Hobby
 
 - Piano
+  - Probably intermediate to advanced
 
 # Publications
 
