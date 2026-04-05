@@ -6,7 +6,7 @@ layout: default
 
 Yoshiteru Nagata is the CEO of ExData, Inc.  
 He received a Ph.D. in Engineering from Nagoya University on March 25, 2026.  
-(He is also scheduled to serve as a researcher at the Institute of Innovation for Future Society, Nagoya University.)  
+(He is also serve as a researcher at the Institute of Innovation for Future Society, Nagoya University.)  
 
 ## Research Interests
 
